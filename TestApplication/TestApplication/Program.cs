@@ -10,6 +10,8 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("CONSOLE IS WRITING");
+            Console.ReadKey();
         }
     }
 }
