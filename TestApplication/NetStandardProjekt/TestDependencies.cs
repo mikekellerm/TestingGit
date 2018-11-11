@@ -6,5 +6,9 @@ namespace NetStandardProjekt
 {
     public class TestDependencies
     {
+        public TestDependencies()
+        {
+
+        }
     }
 }
